@@ -27,8 +27,7 @@ cd google-OAuth2.0
 Включить Google+ API и создать OAuth 2.0 клиентский идентификатор (Client ID).
 В файле config.js заменить YOUR_CLIENT_ID на полученный клиентский идентификатор (Client ID).
 ###Запуск
-```npm start
-```
+```npm start```
 ```Приложение будет доступно по адресу http://localhost:3000.
 ```
 
