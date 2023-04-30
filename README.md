@@ -20,7 +20,8 @@ bash
 Copy code
 cd google-OAuth2.0
 ```
-npm install```
+npm install
+```
 
 3. Настроить Google API
 Создать проект в Google API Console.
