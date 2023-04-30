@@ -15,11 +15,12 @@ Copy code
 ```
 git clone https://github.com/Janexxx1337/google-OAuth2.0.git
 ```
-2. Установить зависимости
+# 2. Установить зависимости
 bash
 Copy code
 cd google-OAuth2.0
-npm install
+```
+npm install ```
 3. Настроить Google API
 Создать проект в Google API Console.
 Включить Google+ API и создать OAuth 2.0 клиентский идентификатор (Client ID).
