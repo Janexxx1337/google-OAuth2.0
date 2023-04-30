@@ -32,7 +32,8 @@ npm install
 bash
 Copy code
 ```
-npm start```
+npm start
+```
 Приложение будет доступно по адресу http://localhost:3000.
 
 # Использование
