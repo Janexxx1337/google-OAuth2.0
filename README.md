@@ -1,4 +1,4 @@
-# google-OAuth2.0Google
+# google-OAuth2.0
 Пример реализации аутентификации с использованием Google OAuth 2.0 и Node.js.
 
 Описание
