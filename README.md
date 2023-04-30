@@ -23,7 +23,7 @@ cd google-OAuth2.0
 npm install
 ```
 
-3. Настроить Google API
+# 3. Настроить Google API
 Создать проект в Google API Console.
 Включить Google+ API и создать OAuth 2.0 клиентский идентификатор (Client ID).
 В файле config.js заменить YOUR_CLIENT_ID на полученный клиентский идентификатор (Client ID).
@@ -31,10 +31,11 @@ npm install
 Запустить приложение
 bash
 Copy code
-npm start
+```
+npm start```
 Приложение будет доступно по адресу http://localhost:3000.
 
-Использование
+# Использование
 Открыть веб-страницу приложения.
 Нажать на кнопку "Войти с помощью Google".
 Выбрать учетную запись Google для аутентификации.
