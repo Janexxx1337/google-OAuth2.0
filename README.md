@@ -12,7 +12,9 @@ Google API Client Library для JavaScript
 1. Клонировать репозиторий
 bash
 Copy code
-```git clone https://github.com/Janexxx1337/google-OAuth2.0.git```
+```
+git clone https://github.com/Janexxx1337/google-OAuth2.0.git
+```
 2. Установить зависимости
 bash
 Copy code
