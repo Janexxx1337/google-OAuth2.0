@@ -1,18 +1,18 @@
 # Google OAuth 2.0 Authentication
 Пример реализации аутентификации с использованием Google OAuth 2.0 и Node.js.
 
-Описание
+# Описание
 Данный проект демонстрирует процесс аутентификации пользователя с помощью Google OAuth 2.0. Сервер реализован на Node.js, а пользовательский интерфейс представлен простой HTML-страницей.
 
-Требования
+# Требования
 Node.js (версия 14.0 или выше)
 NPM (версия 7.0 или выше)
 Google API Client Library для JavaScript
-Установка
+# Установка
 1. Клонировать репозиторий
 bash
 Copy code
-git clone https://github.com/Janexxx1337/google-OAuth2.0.git
+```git clone https://github.com/Janexxx1337/google-OAuth2.0.git```
 2. Установить зависимости
 bash
 Copy code
